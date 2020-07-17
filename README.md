@@ -1,6 +1,7 @@
 ### This is the simplest demo of Lansong SDK.
 
-- **Our SDK has been established for more than 3 years. To facilitate downloading, the code was migrated from the original warehouse.Original warehouse address**:
+- **Our SDK has been established for more than 3 years. To facilitate downloading, the code was migrated from the original warehouse.**
+- Original warehouse address:  https://github.com/LanSoSdk/LanSongEditor_IOS
 
 #### The current version is 4.2.5
  [中文说明](https://github.com/LanSoSdk/LanSongEditor_IOS/blob/master/README.cn.md)
